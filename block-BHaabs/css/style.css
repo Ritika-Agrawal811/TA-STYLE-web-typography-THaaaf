@@ -1,0 +1,38 @@
+body {
+  background: #282e2b;
+}
+
+main {
+  width: 65%;
+  margin: 2em auto;
+}
+
+h2 {
+  font-size: 3em;
+  font-weight: 700;
+  text-transform: capitalize;
+  margin: 0.5em 0;
+  color: #fff;
+  font-family: "PT Serif", serif;
+  text-shadow: 2px 5px 10px #000;
+}
+
+h3 {
+  font-size: 1.25rem;
+  margin: 2em 0;
+  display: flex;
+  justify-content: space-between;
+  color: #fff;
+}
+
+h3 span:nth-child(1) {
+  color: #ff0248;
+}
+
+p {
+  font-size: 1.15rem;
+  margin: 1em 0;
+  line-height: 1.5;
+  font-family: "Roboto", sans-serif;
+  color: #c6bd9f;
+}
